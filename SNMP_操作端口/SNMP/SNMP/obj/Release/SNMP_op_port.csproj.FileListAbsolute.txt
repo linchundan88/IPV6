@@ -1,0 +1,13 @@
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\MySql.Data.dll
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SharpSnmpLib.Full.dll
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SharpSnmpLib.Portable.dll
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SharpSnmpLib.Full.xml
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SharpSnmpLib.Portable.xml
+C:\代码\SNMP_操作端口\SNMP\SNMP\obj\Release\SNMP.Form1.resources
+C:\代码\SNMP_操作端口\SNMP\SNMP\obj\Release\SNMP.Properties.Resources.resources
+C:\代码\SNMP_操作端口\SNMP\SNMP\obj\Release\SNMP_op_port.csproj.GenerateResource.Cache
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SNMP_op_port.exe.config
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SNMP_op_port.exe
+C:\代码\SNMP_操作端口\SNMP\SNMP\bin\Release\SNMP_op_port.pdb
+C:\代码\SNMP_操作端口\SNMP\SNMP\obj\Release\SNMP_op_port.exe
+C:\代码\SNMP_操作端口\SNMP\SNMP\obj\Release\SNMP_op_port.pdb
